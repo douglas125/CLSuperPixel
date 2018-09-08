@@ -3,7 +3,7 @@
 Robust OpenCL-accelerated identification of optical markers in outdoor environments. This code is able to identify concentric regions and checkerboard in outdoor environments, with occlusion and uneven lighting.
 
 Code used to obtain results presented in: A methodology for robust optical marker recognition in outdoor environments
-[Full thesis text](./RobustOMRThesis.pdf)
+[Full thesis text](https://raw.githubusercontent.com/douglas125/CLSuperPixel/master/RobustOMRThesis.pdf)
 
 [Demonstration video](https://youtu.be/rbYjnu13cMk)
 
